@@ -1,0 +1,19 @@
+.form-container{
+    height:650px;
+    width:40%;
+    margin:auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.regform{
+    text-align: left;
+}
+.title{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin:0;
+}
+.regbtn{
+    background-image:  linear-gradient(to bottom left,rgba(128,128,128,0),rgba(128,128,128,1));
+}

@@ -1,0 +1,40 @@
+.cardcontainer{
+    height:700px;
+    width:55%;
+    margin:auto;
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+.admin{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:1.3em;
+}
+.guest{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.3em;
+}
+.titleadmin{
+    font-weight: 400;
+    font-size: 2em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.titleuser{
+    font-weight: 400;
+    font-size: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.admincard{
+    background-image:  linear-gradient(to top right,rgba(211, 211, 211,0),rgba(211, 211, 211,1));
+}
+.guestcard{
+    background-image:  linear-gradient(to bottom right,rgba(128,128,128,0),rgba(128,128,128,1));
+}
+.adminbtn{
+    background-color: black;
+    color:white;
+}
+.guestbtn{
+    background-color:white;
+    border:1px solid black;
+    color:black;
+}

@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "name": "A",
+      "email": "a@gmail.com",
+      "password": "helloworld",
+      "address": "sample address",
+      "phone": "7598286146",
+      "role": "guest",
+      "id": 1
+    },
+    {
+      "name": "B",
+      "email": "B@gmail.com",
+      "password": "welcome*1",
+      "address": "testaddress",
+      "phone": "8778791445",
+      "role": "guest",
+      "id": 2
+    },
+    {
+      "name": "Bavishya",
+      "email": "bavishya13@gmail.com",
+      "password": "babbi1324",
+      "address": "sample address",
+      "phone": "8778791443",
+      "role": "guest",
+      "id": 3
+    },
+    {
+      "name": "ananthi",
+      "email": "ananthi7129@gmail.com",
+      "password": "omnamasivaya",
+      "address": "sample address",
+      "phone": "8778791443",
+      "role": "guest",
+      "id": 4
+    },
+    {
+      "name": "Anu",
+      "email": "anu.10@gmail.com",
+      "password": "helloworld",
+      "address": "sampleAddress",
+      "phone": "8778791443",
+      "role": "guest",
+      "id": 5
+    },
+    {
+      "name": "Shanthi",
+      "email": "shanti12@gmail.com",
+      "password": "shanti",
+      "address": "address",
+      "phone": "9745478587",
+      "role": "guest",
+      "id": 6
+    },
+    {
+      "name": "Siva",
+      "email": "siva12@gmail.com",
+      "password": "siva",
+      "address": "sample",
+      "phone": "7339541963",
+      "role": "guest",
+      "id": 7
+    },
+    {
+      "name": "Bavi",
+      "email": "bavi13@gmail.com",
+      "password": "hello",
+      "address": "sample",
+      "phone": "7339511963",
+      "role": "guest",
+      "id": 8
+    },
+    {
+      "name": "Bavi1399",
+      "email": "bavi1399@gmail.com",
+      "password": "bavi1399",
+      "address": "sample",
+      "phone": "8978457845",
+      "role": "guest",
+      "id": 9
+    },
+    {
+      "name": "Bavi13",
+      "email": "samplemail@gmail.com",
+      "password": "samplepwd",
+      "address": "sample",
+      "phone": "9485658578",
+      "role": "guest",
+      "id": 10
+    },
+    {
+      "name": "Kasi",
+      "email": "kasi10@gmail.com",
+      "password": "kasibaba",
+      "address": "sampleaddress",
+      "phone": "8778791443",
+      "role": "guest",
+      "id": 11
+    },
+    {
+      "name": "Bavi",
+      "email": "bavishya1304@gmail.com",
+      "password": "helloworld",
+      "address": "sambandar street,tvs nagar,mdu",
+      "phone": "8778791443",
+      "role": "Guest",
+      "id": 12
+    },
+    {
+      "name": "AnandKumar",
+      "email": "anandT@gmail.com",
+      "password": "helloworld",
+      "address": "1st Church cross rd,Ashok nagar,Chennai",
+      "phone": "9456878457",
+      "role": "Admin",
+      "id": 13
+    },
+    {
+      "name": "Balu",
+      "email": "Balu10@gmail.com",
+      "password": "Balu10",
+      "address": "Tvs nagar,Madurai",
+      "phone": "8778791443",
+      "role": "Admin",
+      "id": 14
+    }
+  ]
+}
